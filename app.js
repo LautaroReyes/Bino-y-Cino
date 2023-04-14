@@ -30,7 +30,7 @@ document.write("Multiplos de 5: " + contadorMult5 + "<br>");
 
 
 function ContarMultiplosde2(){
-    contadorMult2++; //Suma uno al contador
+    contadorMult2++;
 }
 function ContarMultiplosde3(){
     contadorMult3++;
